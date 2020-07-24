@@ -185,3 +185,7 @@ a {
   padding: 0 1rem 0 1rem;
   font-weight: bold;
 }
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
