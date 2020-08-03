@@ -85,7 +85,7 @@ a {
 .skill-row {
   text-align: left;
   width: 40%;
-  margin: 6.25rem auto 6.25rem auto;
+  margin: 6.25rem auto 7rem auto;
   overflow: hidden;
   position: relative;
 }
@@ -100,11 +100,11 @@ a {
 }
 
 #skillt1 {
-  max-width: 80ch;
+  max-width: 60ch;
 }
 
 #skillt2 {
-  max-width: 60ch;
+  max-width: 50ch;
 }
 
 .skill-image1 {
